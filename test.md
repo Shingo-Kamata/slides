@@ -73,7 +73,7 @@
         for l in ll:
             for x in l:
                 s += x
-            return s
+        return s
     # >>> sum_of_sum([[2],[1,2,3]])
     # 8
     def sum_of_sum(ll):
